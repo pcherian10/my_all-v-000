@@ -2,10 +2,10 @@ require 'pry'
 
 def my_all?(collection)
   
-  while ()
+  while (i < collection.length)
   
   
-end
+  end
 
 
 
