@@ -8,7 +8,13 @@ def my_all?(collection)
     i += 1
   end
   
-  if ()
+  if block_return_values.include? (false)
+      false
+  else
+      true
+  end
+
+nd
 
 my_all ([1,2,3]) {|i| i < 2}
 
@@ -16,5 +22,3 @@ my_all ([1,2,3]) {|i| i < 2}
 
 
 
-
-end
