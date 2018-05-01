@@ -7,9 +7,9 @@ def my_all?(collection)
     i += 1
   end
   
-  end
+  if ()
 
-
+my_all ([1,2,3]) {|i| i < 2}
 
 
 
